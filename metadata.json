@@ -1,0 +1,7 @@
+{
+  "name": "MediSync AI - Clinical Documentation",
+  "description": "A high-fidelity clinical documentation assistant for healthcare providers. Transcribe encounters, manage SOAP notes, and sync seamlessly with EMR systems using AI.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
